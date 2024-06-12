@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "784183670200",
+    "project_id": "nutriplan-2712c",
+    "storage_bucket": "nutriplan-2712c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:784183670200:android:a25b9bc95ac74ebb030b4d",
+        "android_client_info": {
+          "package_name": "com.example.flutter_auth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaVBUkDS_EFZgDrs9lnpk_LLlBIuf2j54"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
